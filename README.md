@@ -1,6 +1,6 @@
 # Ecommerce Sales Analysis
 
-# Project Overview
+## Project Overview
 This project analyzes sales data from an e-commerce platform to uncover valuable insights into sales performance, customer behavior, and product trends. The goal is to inform business strategies by examining various aspects of the sales data using data preprocessing, exploratory data analysis (EDA), and visualization techniques.
 
 # Dataset Description
