@@ -14,7 +14,7 @@ The dataset contains detailed information about e-commerce sales, including:
 - Review Count: Number of reviews for the product.
 - Sales (Month 1 - Month 12): Monthly sales data for each product.
 
-##Data Preprocessing
+## Data Preprocessing
 Key steps taken to prepare the data for analysis:
 
 Creating Additional Columns:
