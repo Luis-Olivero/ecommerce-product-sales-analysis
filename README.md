@@ -45,7 +45,7 @@ A comprehensive dashboard has been created in Tableau to visualize the key insig
 - Sales Performance Overview: Visualizations showing overall sales trends.
 - Top Product and Category Analysis: Insights into the best-performing products and categories.
 - Revenue and Profit Analysis: Detailed views of revenue and profit margins.
-[Link to Tableau Dashboard]
+Link to Dashboard: https://public.tableau.com/app/profile/luis.olivero2947/viz/ProductSalesAnalysis_17206620230500/Dashboard1
 
 ## Conclusion
 This analysis provided valuable insights into the sales performance and customer preferences for e-commerce products.
